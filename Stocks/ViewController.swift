@@ -141,12 +141,5 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
 		self.priceChangeLabel.text = "\(priceChange)"
 	}
 	
-	
-	
-	
-	
-	
-	
-	
 }
 
